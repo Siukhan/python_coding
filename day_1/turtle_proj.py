@@ -1,3 +1,10 @@
+# The following code creates a turtle object, sets its properties (size, color, etc.), 
+# and then uses a loop to move the turtle and draw a dodecagon shape.
+# The turtle starts at the center of the canvas and moves forward by 100 units, 
+# then turning 30 degrees to the right after each step. 
+# After completing the loop, the turtle is hidden, 
+# and the program waits for the user to click on the canvas before exiting.
+
 import turtle
 
 canvas = turtle.Screen()
